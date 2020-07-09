@@ -67,7 +67,7 @@ On member portal, have upcoming events, Internal announcements, resources, caree
 - Implement a referral link/form to invite prospective members via email
 
 ### Week 10
-
+sa
 - Start onboarding members to the beta version of the platform
 - Integrate the member portal with Slack and onboarding so that new users automatically get invited to Slack and are properly onboarded
 
